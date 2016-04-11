@@ -1,0 +1,21 @@
+
+@import "compass/reset";
+@import "compass/css3";
+@import "compass/utilities/sprites";
+//@import "icons/*.png";
+//@include all-my-icons-sprites;
+@import "_vars";
+
+
+
+//Custom Styles Here
+body{
+	background-color: $color;
+}
+
+//ALWAYS END
+//@import "media"
+
+//Load Libs SASS
+//@import "app/libs/animate/animate"
+
